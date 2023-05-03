@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.vercel.filmaria_react_five.twa",
+                     "sha256_cert_fingerprints": ["A6:D2:DD:92:50:51:8A:58:8A:AD:9E:A2:12:82:A8:72:69:E7:DD:36:C7:D5:1B:C3:83:DB:ED:01:90:4E:64:B8"] }
+      }
+]
